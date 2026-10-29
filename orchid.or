@@ -1,0 +1,8 @@
+[name]
+test
+
+[code]
+println!(hello)
+
+[do]
+println!(this is an example!)
