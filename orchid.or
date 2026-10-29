@@ -2,7 +2,12 @@
 test
 
 [code]
-println!(hello)
+fn main() {
+    // Statements here are executed when the compiled binary is called.
+
+    // Print text to the console.
+    println!("Hello World!");
+}
 
 [do]
 println!(this is an example!)
